@@ -35,3 +35,9 @@ git add <filename> -- adds new or changed files in your working directory to the
 git add . -- this will add all the files at once
 git commit -m -- it is the record of the change
 -->
+
+
+<!-- Git push command
+push -- upload local repo content to remote repo
+git push origin main
+ -->
