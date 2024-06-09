@@ -32,5 +32,6 @@ there are two platforms remote(github) and local(own laptop) -->
 
 <!-- ADD & COMMIT 
 git add <filename> -- adds new or changed files in your working directory to the git staging area
+git add . -- this will add all the files at once
 git commit -m -- it is the record of the change
 -->
